@@ -1,5 +1,4 @@
-######Biometric Auth
-![Biometric-Authentication-blog.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/0eb85db8-8316-4f89-ae92-bbf4ccd7b91d/e8f4d028-f150-463f-b921-ca085d494e09/Biometric-Authentication-blog.webp)
+###**Biometric Auth**
 
 ### Summary of the Biometric Authentication Process
 
